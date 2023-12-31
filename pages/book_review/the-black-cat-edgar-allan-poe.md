@@ -28,4 +28,5 @@
 
 ## বাহ্যিক লিঙ্কগুলি
 
-- AmericanLiterature.com-এ পড়ুন
+- [AmericanLiterature.com-এ পড়ুন](https://americanliterature.com/author/edgar-allan-poe/short-story/the-black-cat)
+- [Gutenberg.org-এ পড়ুন](https://www.gutenberg.org/cache/epub/2148/pg2148-images.html#chap2.7)
